@@ -11,7 +11,7 @@ Create a folder called 'db' and create the following files:
     
 
 To Run The C2:
-    $ screen -dmS BOT node index.js <port>
+    $ screen -dmS BOT node index.js port_to_use
     
     
     
