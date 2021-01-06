@@ -9,3 +9,9 @@ Create a folder called 'db' and create the following files:
     - users.log
     
     
+
+To Run The C2:
+    $ screen -dmS BOT node index.js <port>
+    
+    
+    
